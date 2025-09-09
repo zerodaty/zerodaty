@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://github.com/zerodaty/zerodaty/blob/main/banner.png?raw=true" alt="Banner de Frany Velásquez" />
+</p>
 <h1 align="center">¡Hola! 👋 Soy Frany Velásquez</h1>
-<h3 align="center">Ingeniero de Sistemas | Desarrollador Full Stack | Analista de Datos</h3>
-
 <br>
-
 <!-- SOBRE MÍ -->
-<h3> 👨‍💻 Sobre mí </h3>
+<h3> 🚀 Sobre mí </h3>
 
 Soy un Ingeniero de Sistemas y desarrollador de software con una gran pasión por la creación de soluciones tecnológicas eficientes y escalables. Mi objetivo es aportar al éxito de los negocios a través de la tecnología, con un enfoque especial en el desarrollo backend, la automatización de procesos y el análisis de datos.
 
