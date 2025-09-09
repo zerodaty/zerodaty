@@ -2,7 +2,7 @@
   <img src="https://github.com/zerodaty/zerodaty/blob/main/banner.png?raw=true" alt="Banner de Frany Velásquez" />
 </p>
 <h1 align="center">¡Hola! 👋 Soy Frany Velásquez</h1>
-<br>
+
 <!-- SOBRE MÍ -->
 <h3> 🚀 Sobre mí </h3>
 
