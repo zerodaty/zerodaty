@@ -70,18 +70,6 @@ Cuento con experiencia en contribuciones remotas para múltiples proyectos, espe
 </table>
 
 ---
-
-<!-- ESTADÍSTICAS -->
-<h3 align="center">📊 Estadísticas en GitHub</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zerodaty&show_icons=true&locale=es&theme=tokyonight" alt="Estadísticas de GitHub de Frany" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodaty&layout=compact&locale=es&theme=tokyonight" alt="Lenguajes más usados por Frany" />
-</p>
-
----
-
 <!-- CONTACTO -->
 <h3 align="center">📫 ¡Hablemos!</h3>
 
