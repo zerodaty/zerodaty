@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Odoo-14%20%E2%86%92%2019-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo 14-19"/>
   <img src="https://img.shields.io/badge/Focus-ERP%20%2B%20DevSecOps-0A7?style=flat-square" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Localizaci%C3%B3n-Venezuela%20%C2%B7%20SENIAT-FFCC00?style=flat-square" alt="Localización VE"/>
+  <img src="https://img.shields.io/badge/Localizaci%C3%B3nes-Venezuela%20%C2%B7%20SENIAT-FFCC00?style=flat-square" alt="Localización VE"/>
   <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Remoto-lightgrey?style=flat-square" alt="Remoto"/>
 </p>
 
