@@ -147,15 +147,6 @@ Cuando algo se rompe en producción a las 11 p.m. — una réplica caída, un as
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zerodaty&show_icons=true&hide_border=true&theme=github_dark&hide_title=true" alt="Estadísticas de GitHub"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerodaty&layout=compact&hide_border=true&theme=github_dark" alt="Lenguajes más usados"/>
-</p>
-
----
-
 ### 📫 Hablemos
 
 Estoy abierto a proyectos de **implementación y personalización de Odoo**, **migraciones de datos** y **hardening / operación de infraestructura ERP**.
