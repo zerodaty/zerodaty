@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://github.com/zerodaty/zerodaty/blob/main/banner.png?raw=true" alt="Banner de Frany Velásquez" />
 </p>
-
-<h1 align="center">Frany Velásquez</h1>
 <p align="center">
   <b>Odoo Engineer · DevSecOps · Data & Infraestructura</b><br/>
   <i>Construyo, aseguro y opero ERPs que no se pueden caer.</i>
